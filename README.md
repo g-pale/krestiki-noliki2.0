@@ -170,8 +170,8 @@ krestiki-noliki2.0/
 
 Если у вас есть вопросы или предложения, не стесняйтесь обращаться:
 
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
+- 📧 Email: saburkinsergey@gmail.com
+- 🐙 GitHub: [g-pale](https://github.com/g-pale)
 
 ---
 
